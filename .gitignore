@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Uploaded media
+uploads/
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.webm
+*.wav
+*.mp3
+*.m4a
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

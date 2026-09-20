@@ -1,0 +1,1 @@
+# LivestockGuard AI Application Package
